@@ -12,3 +12,6 @@ code.
 
 ### Suggestions
 Please feel free to advise any improvements. Can't wait to get as smart as you are!
+
+Nice inspiration for use instead of Canvass
+https://pixijs.io/examples/#/demos-basic/container.js
